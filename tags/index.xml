@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Be The One</title>
+    <link>http://139.198.187.121/tags/</link>
+    <description>Recent content in Tags on Be The One</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 18 Jun 2019 15:45:08 +0800</lastBuildDate><atom:link href="http://139.198.187.121/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mac</title>
+      <link>http://139.198.187.121/tags/mac/</link>
+      <pubDate>Tue, 18 Jun 2019 15:45:08 +0800</pubDate>
+      
+      <guid>http://139.198.187.121/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>http://139.198.187.121/tags/linux/</link>
+      <pubDate>Mon, 17 Jun 2019 13:54:57 +0800</pubDate>
+      
+      <guid>http://139.198.187.121/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://139.198.187.121/tags/python/</link>
+      <pubDate>Mon, 17 Jun 2019 10:50:27 +0800</pubDate>
+      
+      <guid>http://139.198.187.121/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pycharm</title>
+      <link>http://139.198.187.121/tags/pycharm/</link>
+      <pubDate>Mon, 17 Jun 2019 10:46:09 +0800</pubDate>
+      
+      <guid>http://139.198.187.121/tags/pycharm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>http://139.198.187.121/tags/windows/</link>
+      <pubDate>Mon, 17 Jun 2019 10:05:04 +0800</pubDate>
+      
+      <guid>http://139.198.187.121/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
